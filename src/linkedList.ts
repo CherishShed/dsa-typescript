@@ -110,4 +110,4 @@ ll.insertAt(2, 500);
 ll.printData();
 ll.clearList();
 ll.printData();
-console.log(ll.getAt(0));
+console.log(ll.getAt(1));
